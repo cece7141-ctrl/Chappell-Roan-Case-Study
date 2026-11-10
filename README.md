@@ -22,3 +22,5 @@ Chappell Roan’s public persona has created passionate discourse on social medi
 
 These recommendations are derived from an analysis of 6,825 tweets and 109 of Chappell's own posts.
 
+
+
