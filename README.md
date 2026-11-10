@@ -1,6 +1,6 @@
-# A Social Media Analysis on Chappell Roan (Web and Social Media Analytics)
+# A Social Media Analysis on Chappell Roan
 
-These recommendations are derived from an analysis of 6,825 tweets and 109 of Chappell's own posts. 
+04/2026 - Web and Social Media Analytics Coursework - The following is an evaluation of fan engagement and sentiment of the Chappell Roan based off of data scrapped from X (formerly Twitter). 
 
 Executive Summary:
 
@@ -18,5 +18,7 @@ Chappell Roan’s public persona has created passionate discourse on social medi
 
 4. Prioritize Live Performance Accessibility and Tour Expansion: Concert attendance dominates three LDA topics, with the word "see" appearing 279 times in word frequency analysis. Address fan demand by expanding tour capacity (additional dates, larger venues) and implementing fan-first ticketing strategies to reduce negative sentiment around access issues.  
 
-5. Monitor and Respond to Negative Sentiment Proactively: While negative sentiment is only 17%, concentrated criticism (if identified in specific topics or time periods) should be addressed swiftly through strategic communication. Implement social listening protocols to detect sentiment shifts early and deploy narrative correction before minor issues escalate.  
+5. Monitor and Respond to Negative Sentiment Proactively: While negative sentiment is only 17%, concentrated criticism (if identified in specific topics or time periods) should be addressed swiftly through strategic communication. Implement social listening protocols to detect sentiment shifts early and deploy narrative correction before minor issues escalate.
+
+These recommendations are derived from an analysis of 6,825 tweets and 109 of Chappell's own posts.
 
