@@ -1,6 +1,6 @@
 # A Social Media Analysis on Chappell Roan
 
-04/2026 - Web and Social Media Analytics Coursework - The following is an evaluation of fan engagement and sentiment of the Chappell Roan based off of data scrapped from X (formerly Twitter). 
+The following is an evaluation of fan engagement and sentiment of the Chappell Roan based off of data scrapped from X (formerly Twitter). 
 
 Executive Summary:
 
